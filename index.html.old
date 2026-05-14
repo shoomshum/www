@@ -1,0 +1,10 @@
+layout: default
+title: หน้าแรกของฉัน
+---
+<!DOCTYPE html>
+<html>
+<head></head>
+<body>
+<h2>Test WWW</h2>
+</body>
+</html>
